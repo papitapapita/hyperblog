@@ -2,5 +2,16 @@ body{
     background-color: chocolate;
     color: blanchedalmond;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
     text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1xp solid rgba(white, white, white, 80%);
+    margin: 0 auto;
 }
